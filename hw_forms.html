@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hw_forms</title>
+</head>
+<body>
+<table border="1" width="30%">
+    <form action="" method="get">
+    <thead>
+    <tr>
+        <td colspan="2" align="center" height="40px">Гражданство<select><option>РФ</option><option>другое</option></select></td>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td colspan="2" width="100%" align="left">Кем выдан <input type="text" placeholder="введите орган выдачи" name="place"></td>
+    </tr>
+    <tr>
+        <td colspan="2" width="100%" height="17px" align="left"></td>
+    </tr>
+    <tr>
+        <td colspan="2" width="100%" align="left">Дата выдачи   <input type="date" name="date"></td>
+    </tr>
+    <tr>
+        <td colspan="2" width="100%" height="17px" align="left"></td>
+    </tr>
+    <tr>
+        <td colspan="2" width="100%" align="right"> Код подразделения <input type="number" size="6" placeholder="введите 6 цифр" name="code"></td>
+    </tr>
+    <tr>
+        <td colspan="2" width="100%" height="17px" align="left"></td>
+    </tr>
+    <tr>
+        <td colspan="2" width="100%" align="right">Ваша подпись <input type="file" name="signature"></td>
+    </tr>
+    <tr>
+        <td colspan="2" width="100%" height="17px" align="left"></td>
+    </tr>
+    <tr>
+        <td align="center" rowspan="6" width="15%">Ваше фото
+        <input type="file" name="photo"> </td>
+        <td>Фамилия <input type="text" name="last_name"></td>
+    </tr>
+    <tr>
+        <td height="40px"> </td>
+    </tr>
+    <tr>
+        <td>Имя <input type="text" name="name"></td>
+    </tr>
+    <tr>
+        <td>Отчество <input type="text"  name="fathers_name"></td>
+    </tr>
+    <tr>
+        <td>Пол
+    <br><input type="radio" name="gender"> Жен
+    <br><input type="radio" name="gender"> Муж <br>Дата рождения <input type="date" name="birthday"></td>
+    </tr>
+    <tr>
+        <td>Место рождения<input type="text" name="city"></td>
+    </tr>
+<tr>
+        <td colspan="2" rowspan="4" height="50px" align="center"><button type="submit">отправить</button></td>
+    </tr>
+</form>
+    </tbody>
+</body>
+</html>
