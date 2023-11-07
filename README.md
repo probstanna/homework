@@ -7,3 +7,4 @@
 #### https://probstanna.github.io/homework/hw_tables.html
 #### https://probstanna.github.io/homework/hw_forms.html
 #### https://probstanna.github.io/homework/mainpage.html
+#### https://probstanna.github.io/homework/Изменяем кириллицу на латиницу по клику.html
