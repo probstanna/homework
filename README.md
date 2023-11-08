@@ -7,6 +7,4 @@
 #### https://probstanna.github.io/homework/hw_tables.html
 #### https://probstanna.github.io/homework/hw_forms.html
 #### https://probstanna.github.io/homework/mainpage.html
-#### https://probstanna.github.io/homework/replace_cyrillic_with_latin.html
-#### https://probstanna.github.io/homework/1_task.html
 #### https://probstanna.github.io/homework/task_2.html
